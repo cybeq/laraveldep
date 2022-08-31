@@ -1,0 +1,11 @@
+h3{
+    font-size: 70px;
+    color:red;
+}
+.loginpanel-container{
+    width:100%;
+    text-align: center;
+}
+input{
+    display:block;
+}
